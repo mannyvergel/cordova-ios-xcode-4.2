@@ -1,15 +1,15 @@
 cordova-ios-xcode-4.2
 =====================
 
+Phonegap / Cordova 2.9 and XCode 4.2 Sample Project
+
 Summary:
 
-Phonegap Cordova Sample Project that works with XCode 4.2
-
-This is Cordova for iOS version 2.9.
+This is a Phonegap / Cordova Sample Project that works with XCode 4.2.
 
 Fixed all link and compile errors, undefined variables that's only available with SDK >= 5.1.
 
-This works with XCode 4.2 with 5.0 Simulator iOS SDK
+Tried with XCode 4.2 with 5.0 Simulator iOS SDK.
 
 
 Background:
